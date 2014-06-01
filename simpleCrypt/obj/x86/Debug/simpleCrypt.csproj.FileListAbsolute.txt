@@ -1,0 +1,17 @@
+c:\users\lyle\documents\visual studio 2010\Projects\simpleCrypt\simpleCrypt\bin\Debug\simpleCrypt.exe
+c:\users\lyle\documents\visual studio 2010\Projects\simpleCrypt\simpleCrypt\bin\Debug\simpleCrypt.pdb
+c:\users\lyle\documents\visual studio 2010\Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lyle\documents\visual studio 2010\Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\simpleCrypt.Form1.resources
+c:\users\lyle\documents\visual studio 2010\Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\simpleCrypt.Properties.Resources.resources
+c:\users\lyle\documents\visual studio 2010\Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lyle\documents\visual studio 2010\Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lyle\documents\visual studio 2010\Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\simpleCrypt.exe
+c:\users\lyle\documents\visual studio 2010\Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\simpleCrypt.pdb
+C:\Users\Lyle\Documents\Coding Projects\simpleCrypt\simpleCrypt\bin\Debug\simpleCrypt.exe
+C:\Users\Lyle\Documents\Coding Projects\simpleCrypt\simpleCrypt\bin\Debug\simpleCrypt.pdb
+C:\Users\Lyle\Documents\Coding Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\simpleCrypt.csprojResolveAssemblyReference.cache
+C:\Users\Lyle\Documents\Coding Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\simpleCrypt.Form1.resources
+C:\Users\Lyle\Documents\Coding Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\simpleCrypt.Properties.Resources.resources
+C:\Users\Lyle\Documents\Coding Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\simpleCrypt.csproj.GenerateResource.Cache
+C:\Users\Lyle\Documents\Coding Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\simpleCrypt.exe
+C:\Users\Lyle\Documents\Coding Projects\simpleCrypt\simpleCrypt\obj\x86\Debug\simpleCrypt.pdb
